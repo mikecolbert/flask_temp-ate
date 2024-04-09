@@ -1,3 +1,7 @@
+Our names are Nick Butzler and Jonathan Mincieli and we created a website using flask and python to create a simple survey to predict your salary using AI. Use flask run to get the website live, use the "/" to get to homepage and "/about" to get to the about page. Fill out the survey accordingly by following the drop down menu selections. 
+
+
+
 # Flask Template
 Basic structure for starting a Flask project with Jinja templates
 
